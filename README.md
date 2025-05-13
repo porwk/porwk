@@ -1,6 +1,6 @@
 <!-- Animated banner -->
 <p align="center">
-  <img src="https://i.imgur.com/rbi8LqH.png" width="100%" alt="Welcome banner">
+  <img src="https://i.imgur.com/V7MIAHM.png" width="100%" alt="Welcome banner">
 </p>
 
 <h1 align="center">Hey there, I'm Porwk 👾</h1>
