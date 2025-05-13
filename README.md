@@ -1,11 +1,12 @@
 <!-- Animated banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100%" alt="Welcome banner">
+  <img src="https://i.imgur.com/rbi8LqH.png" width="100%" alt="Welcome banner">
 </p>
 
 <h1 align="center">Hey there, I'm Porwk 👾</h1>
 
 <p align="center">
+      I am a Back-End Engineer based in Australia.
   🧠 Full-stack developer focused on automation, bots, and AI experiments<br>
   ⚙️ Backend-heavy but I speak fluent HTML/CSS/JS too<br>
   🐳 Docker lover and bug whisperer
