@@ -6,7 +6,7 @@
 <h1 align="center">Hey there, I'm Porwk 👾</h1>
 
 <p align="center">
-  🌎 I am a Back-End Engineer based in Australia.
+  🌎 I am a Back-End Engineer based in Australia.<br>
   🧠 Full-stack developer focused on automation, bots, and AI experiments<br>
   ⚙️ Backend-heavy but I speak fluent HTML/CSS/JS too<br>
   🐳 Docker lover and bug whisperer
