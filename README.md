@@ -16,4 +16,4 @@
 &nbsp; &nbsp; &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/porwk)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Porwk)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/porwk)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/pwk_ts)
